@@ -1,0 +1,40 @@
+html, body {
+	font-family: 'Roboto','Helvetica','Arial',sans-serif!important;
+    background-color: #FAFAFA;
+}
+.newsrow{
+	margin:10px 100px 10px 100px;
+	border:1px solid #ddd;
+	background:#fff;
+}
+.urlToImage >img{
+	width:100%;
+	min-height:150px;
+}
+.imgcolumn{
+	padding:0;
+}
+p{
+	margin:0;
+}
+.title{
+	font-weight: 500;
+    font-family: Roboto;
+    font-size: 16px;
+	padding:10px;
+}
+.material-icons{
+	vertical-align:middle;
+}
+.description{
+	text-indent:30px;
+}
+.navbar{
+	border-radius:0;
+	position: sticky;
+	top: 0;
+	z-index: 5;
+}
+.breadcrumpnewsname{
+	text-transform:uppercase;
+}
